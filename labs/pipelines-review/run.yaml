@@ -9,7 +9,7 @@ metadata:
 spec:
   params:
     - name: GIT_REPO
-      value: 'https://git.ocp4.example.com/developer/DO288-apps'
+      value: 'https://github.com/mumer2834/d288'
     - name: GIT_REVISION
       value: master
     - name: MVN_APP_PATH
